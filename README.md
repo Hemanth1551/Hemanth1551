@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Hemanth ...<br><br>- 🔭 I’m student at BVCITS<br>- 📚 I'm currently learning BTech(AIML) <br>- ⚡ In my free time I was learn new technologies<br>-  💻  My portfolio -> <a href="https://hemanth1551.github.io/portfolio/"> click me </a></p>
+<p align="left">I'm Hemanth ...<br><br>- 🔭 I’m student at BVCITS<br>- 📚 I'm currently learning BTech(AIML) <br>- ⚡ In my free time I was learn new technologies<br>-  💻  My portfolio -> <a href="https://hemanthdommeti.me"> click me </a></p>
 
 ###
 
